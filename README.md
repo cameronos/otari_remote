@@ -8,7 +8,7 @@ Designed and built by <a href="https://cameronos.github.io/quarrybank/#home">Qua
   &nbsp;
   <a href="https://www.arduino.cc/"><img height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" /></a>
   &nbsp;
-  <a href="https://www.kicad.org/"><img height="28" width="40" src="https://www.kicad.org/img/kicad_logo_small.png" /></a>
+  <a href="https://www.kicad.org/"><img height="28" width="60" src="https://www.kicad.org/img/kicad_logo_small.png" /></a>
 </p>
 
 ---
