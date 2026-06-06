@@ -21,6 +21,7 @@ Features a **Windows 95-stylized Java GUI**, intended for cross-compatibility on
 
 ## Screenshots
 <img width=70% src="https://cameronos.github.io/img/otari_sc.png">
+
 ---
 
 ## Features
