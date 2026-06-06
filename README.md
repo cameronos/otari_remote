@@ -4,6 +4,8 @@ Designed and built by <a href="https://cameronos.github.io/quarrybank/#home">Qua
 
 ### Languages and tools used
 <p>
+<a href="https://cplusplus.com/"><img height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
+  &nbsp;
   <a href="https://www.java.com/"><img height="28" width="28" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
   &nbsp;
   <a href="https://www.arduino.cc/"><img height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" /></a>
