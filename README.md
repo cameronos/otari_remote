@@ -40,8 +40,8 @@ Features a **Windows 95-stylized Java GUI**, intended for cross-compatibility on
 
 ## Hardware
 ### ARPH01 — Arduino Remote Pin Header 01
-The ARPH01 is a custom PCB that safely breaks out the Otari MX-50 DB37 remote connector to standard 2.54mm pin headers for the Arduino Mega.
 <img width=50% src="db37_board.png">
+The ARPH01 is a custom PCB that safely breaks out the Otari MX-50 DB37 remote connector to standard 2.54mm pin headers for the Arduino Mega.
 
 **Key design decisions:**
 - Power pins 33, 34, 35 (5V regulated and 24–40V unregulated) are **completely unconnected** and only connect to DB37 male connector. No trace to run out from. Prevents the voltage spike failure mode that motivated this project.
